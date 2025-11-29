@@ -1,13 +1,3 @@
----
-title: LLM Analysis Quiz Solver
-emoji: 🏃
-colorFrom: red
-colorTo: blue
-sdk: docker
-pinned: false
-app_port: 7860
----
-
 # LLM Analysis - Autonomous Quiz Solver Agent
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -386,4 +376,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 **Author**: Sri Sai Preethi Munnaluri 
 **Course**: Tools in Data Science (TDS)
+
 **Institution**: IIT Madras
